@@ -1,4 +1,4 @@
-# Git Programming Practice
+# Git Programming Practice: An Introduction
 
 # Another introduction line
 
