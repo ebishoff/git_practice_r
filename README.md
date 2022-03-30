@@ -1,4 +1,4 @@
-# Git Programming Practice
+# Git Programming Practice: An Introduction
 
 # This is a repo for a project for Data and Society Course
 
